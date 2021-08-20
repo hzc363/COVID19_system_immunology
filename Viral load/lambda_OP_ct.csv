@@ -1,0 +1,1083 @@
+"participant_id","Sample.Day","OP.Swab","Date.Collected","Accession.number","PCR","CT.value","Comment"
+"1",0,"OP","2020-04-25","20H-116VI0206","Not detected",NA,NA
+"1",1,"OP","2020-04-26","20S-117VI0287","Not detected",NA,NA
+"1",3,"OP","2020-04-28","20S-119VI0353","Not detected",NA,NA
+"1",5,"OP","2020-04-30","20S-121VI0578","Detected","38.31",NA
+"1",7,"OP","2020-05-02","20S-123VI0277","Not detected",NA,NA
+"1",10,"OP","2020-05-05","20S-126VI0286","Not detected",NA,NA
+"1",14,"OP","2020-05-09","20S-135VI0663","Not detected",NA,NA
+"1",21,"OP","2020-05-16","20S-139VI1191","Not detected",NA,NA
+"1",28,"OP","2020-05-23",NA,"Not detected",NA,NA
+"4",0,"OP","2020-04-27","20S-118VI1187","Not detected",NA,NA
+"4",1,"OP","2020-04-28","20S-119VI0552","Detected","38.2",NA
+"4",3,"OP","2020-04-30","20S-121VI0618","Detected","38.3",NA
+"4",4,"OP","2020-05-01","20H-126VI0185","Detected","24.53",NA
+"4",7,"OP","2020-05-04","20S-125VI0648","Not detected",NA,NA
+"4",10,"OP","2020-05-07","20S-128VI0626","Not detected",NA,NA
+"4",14,"OP","2020-05-11","20S-135VI0702","Not detected",NA,"Labeled as NP; is this nasal?"
+"4",21,"OP","2020-05-18","20S-139VI1218","Not detected",NA,NA
+"4",29,"OP","2020-05-26",NA,"Not detected",NA,NA
+"12",0,"OP","2020-04-30","20H-126VI0186","Detected","24.19",NA
+"12",1,"OP","2020-05-01","20H-126VI0188","Detected","29.49",NA
+"12",3,"OP","2020-05-03","20S-124VI0132","Detected","30.56",NA
+"12",5,"OP","2020-05-05","20S-126VI0451","Detected","37.57",NA
+"12",7,"OP","2020-05-07",NA,"Not detected",NA,"Leaking"
+"12",11,"OP","2020-05-11","20S-135VI0635","Not detected",NA,"Visit Day 10+1"
+"12",14,"OP","2020-05-14","20S-135VI0713","Detected","37.15",NA
+"12",21,"OP","2020-05-21",NA,"Not detected",NA,NA
+"12",28,"OP","2020-05-28",NA,"Not detected",NA,NA
+"16",0,"OP","2020-05-02","20S-123VI0269","Detected","32.19",NA
+"16",1,"OP","2020-05-03","20S-124VI0123","Detected","26.47",NA
+"16",3,"OP","2020-05-05","20S-126VI0238","Not detected",NA,NA
+"16",5,"OP","2020-05-07","20S-135VI0577","Not detected",NA,NA
+"16",7,"OP","2020-05-09","20S-135VI0557","Detected","35.72",NA
+"16",10,"OP","2020-05-12","20S-133VI0829","Not detected",NA,NA
+"16",14,"OP","2020-05-16","20S-139VI1201","Not detected",NA,NA
+"16",21,"OP","2020-05-23",NA,"Not detected",NA,NA
+"16",28,"OP","2020-05-30",NA,"Not detected",NA,NA
+"108",0,"OP","2020-05-06","20S-127VI0587","Not detected",NA,NA
+"108",1,"OP","2020-05-07",NA,"Not detected",NA,"Leaking"
+"108",3,"OP","2020-05-09","20S-135VI0601","Not detected",NA,NA
+"108",5,"OP","2020-05-11","20S-135VI0620","Not detected",NA,NA
+"108",7,"OP","2020-05-13","20S-134VI0746","Not detected",NA,NA
+"108",10,"OP","2020-05-16",NA,"Not detected",NA,NA
+"108",14,"OP","2020-05-20",NA,"Not detected",NA,NA
+"108",21,"OP","2020-05-27",NA,"Not detected",NA,NA
+"108",28,"OP","2020-06-01",NA,"Not detected",NA,NA
+"112",0,"OP","2020-05-10","20S-135VI0692","Detected","33.33",NA
+"112",1,"OP","2020-05-11","20S-135VI0694","Not detected",NA,NA
+"112",3,"OP","2020-05-13","20S-134VI0688","Detected","39.32",NA
+"112",5,"OP","2020-05-15","20S-136VI0979","Detected","37.3",NA
+"112",7,"OP","2020-05-17","S20-139VI1111","Not detected",NA,NA
+"112",10,"OP","2020-05-20",NA,"Not detected",NA,NA
+"112",14,"OP","2020-05-24",NA,"Not detected",NA,NA
+"112",21,"OP","2020-05-31",NA,"Not detected",NA,NA
+"112",28,"OP","2020-06-07",NA,"Not detected",NA,"IgG positive"
+"115",0,"OP","2020-05-10","20S-135VI0678","Detected","33.58",NA
+"115",1,"OP","2020-05-11","20S-135VI0675","Detected","33.37",NA
+"115",3,"OP","2020-05-13","20S-134VI0692","Detected","24.43",NA
+"115",5,"OP","2020-05-15","20S-136VI0959","Detected","38.26",NA
+"115",7,"OP","2020-05-17","20S-139VI1158","Not detected",NA,NA
+"115",10,"OP","2020-05-20","20S-141VI0851","Not detected",NA,NA
+"115",14,"OP","2020-05-24","20S-147VI0777","Detected","40.04",NA
+"115",21,"OP","2020-06-01",NA,"Not detected",NA,NA
+"115",28,"OP","2020-06-07",NA,"Not detected",NA,"IgG positive"
+"118",0,"OP","2020-05-14","20S-135VI0718","Not detected",NA,NA
+"118",1,"OP","2020-05-15","20S-136VI0969","Not detected",NA,NA
+"118",3,"OP","2020-05-17","20S-139VI1131","Not detected",NA,NA
+"118",5,"OP","2020-05-19","20S-140VI0956","Detected","26.75","Sent to hospital"
+"118",7,"OP","2020-05-21",NA,NA,NA,"Hospitalized"
+"118",10,"OP","2020-05-24",NA,NA,NA,"Hospitalized"
+"118",14,"OP","2020-05-28",NA,"Not detected",NA,NA
+"118",21,"OP","2020-06-04",NA,"Not detected",NA,NA
+"118",28,"OP","2020-06-11",NA,"Not detected",NA,NA
+"119",0,"OP","2020-05-15","20S-136VI0977","Detected","33.6",NA
+"119",1,"OP","2020-05-16","20S-139VI1034","Detected","32.36",NA
+"119",3,"OP","2020-05-18","20S-139VI1229","Not detected",NA,NA
+"119",5,"OP","2020-05-20",NA,"Not detected",NA,NA
+"119",7,"OP","2020-05-22",NA,"Not detected",NA,NA
+"119",10,"OP","2020-05-25",NA,"Not detected",NA,NA
+"119",14,"OP","2020-05-29",NA,"Not detected",NA,NA
+"119",21,"OP","2020-06-05",NA,"Not detected",NA,NA
+"119",28,"OP","2020-06-12",NA,"Not detected",NA,"Leaking"
+"120",0,"OP","2020-05-14","20S-135VI0709","Detected","25.28",NA
+"120",1,"OP","2020-05-15","20S-136VI0982","Detected","16.9",NA
+"120",3,"OP","2020-05-17","20S-139VI1065","Detected","31.9",NA
+"120",5,"OP","2020-05-19","20S-140VI0925","Detected","28.79",NA
+"120",7,"OP","2020-05-21","20S-142VI0796","Detected","34.96",NA
+"120",10,"OP","2020-05-24","20S-147VI0692","Detected","37.58",NA
+"120",12,"OP","2020-05-26",NA,"Not detected",NA,"Came in early for day 14 visit"
+"120",24,"OP","2020-06-07",NA,"Not detected",NA,NA
+"120",28,"OP","2020-06-11",NA,NA,NA,"Missed visit"
+"124",0,"OP","2020-05-16","20S-139VI1164","Detected","33.62",NA
+"124",1,"OP","2020-05-17","20S-139VI1174","Detected","26.23",NA
+"124",3,"OP","2020-05-19","20S-140VI0913","Detected","22.49",NA
+"124",5,"OP","2020-05-21","20S-142VI0760","Detected","36.5",NA
+"124",7,"OP","2020-05-23","20S-147VI0787","Detected","30.28",NA
+"124",10,"OP","2020-05-26",NA,"Not detected",NA,NA
+"124",14,"OP","2020-05-30",NA,"Not detected",NA,NA
+"124",21,"OP","2020-06-07",NA,"Not detected",NA,NA
+"124",28,"OP","2020-06-13",NA,NA,NA,"Missed visit"
+"126",0,"OP","2020-05-17","20S-139VI1046","Detected","29.39",NA
+"126",1,"OP","2020-05-18","20S-139VI1215","Detected","30.02",NA
+"126",3,"OP","2020-05-20","20S-141VI0844","Detected","36.17",NA
+"126",5,"OP","2020-05-22","20S-143VI0831","Detected","37.98",NA
+"126",7,"OP","2020-05-24","20S-147VI1169","Detected","30.1",NA
+"126",10,"OP","2020-05-27","20S-148VI0891","Detected","30.23",NA
+"126",14,"OP","2020-05-31","20S-153VI0796","Detected","30.77",NA
+"126",22,"OP","2020-06-08",NA,"Not detected",NA,NA
+"126",29,"OP","2020-06-15",NA,"Not detected",NA,NA
+"127",0,"OP","2020-05-17","20S-139VI1084","Not detected",NA,NA
+"127",1,"OP","2020-05-18","20S-139VI1210","Not detected",NA,NA
+"127",3,"OP","2020-05-20",NA,"Not detected",NA,NA
+"127",5,"OP","2020-05-22","20S-143VI0853","Detected","34.74",NA
+"127",7,"OP","2020-05-24",NA,"Not detected",NA,NA
+"127",10,"OP","2020-05-27",NA,"Not detected",NA,NA
+"127",14,"OP","2020-05-31",NA,"Not detected",NA,NA
+"127",21,"OP","2020-06-07",NA,"Not detected",NA,NA
+"127",28,"OP","2020-06-14",NA,"Not detected",NA,NA
+"128",0,"OP","2020-05-17","20S-139VI1075","Detected","26.49",NA
+"128",1,"OP","2020-05-18","20S-139VI1214","Detected","37.74",NA
+"128",3,"OP","2020-05-20","20S-141VI0837","Detected","34.29",NA
+"128",5,"OP","2020-05-22",NA,NA,NA,"Missing"
+"128",7,"OP","2020-05-24","20S-147VI1166","Detected","37.91",NA
+"128",11,"OP","2020-05-28",NA,"Not detected",NA,NA
+"128",14,"OP","2020-05-31",NA,"Not detected",NA,NA
+"128",21,"OP","2020-06-07",NA,"Not detected",NA,NA
+"128",28,"OP","2020-06-14",NA,NA,NA,"Missed visit"
+"133",0,"OP","2020-05-19",NA,"Not detected",NA,NA
+"133",1,"OP","2020-05-20","20S-141VI0855","Detected","29.97",NA
+"133",3,"OP","2020-05-22","20S-143VI0881","Detected","38.8",NA
+"133",5,"OP","2020-05-24",NA,"Not detected",NA,NA
+"133",7,"OP","2020-05-26",NA,"Not detected",NA,NA
+"133",10,"OP","2020-05-28",NA,"Not detected",NA,NA
+"133",14,"OP","2020-06-02",NA,"Not detected",NA,NA
+"133",21,"OP","2020-06-09",NA,NA,NA,"Missed visit"
+"133",33,"OP","2020-06-21",NA,"Not detected",NA,"Leaking"
+"134",0,"OP","2020-05-19","20S-140VI0927","Detected","29.34",NA
+"134",1,"OP","2020-05-20","20S-141VI0824","Detected","35.13",NA
+"134",3,"OP","2020-05-22","20S-143VI0876","Detected","31.62",NA
+"134",5,"OP","2020-05-24",NA,"Not detected",NA,NA
+"134",7,"OP","2020-05-26",NA,"Not detected",NA,NA
+"134",10,"OP","2020-05-29","20S-150VI1089","Detected","31.5",NA
+"134",14,"OP","2020-06-02","20S-154VI0954","Detected","37.51",NA
+"134",21,"OP","2020-06-09",NA,"Not detected",NA,NA
+"134",28,"OP","2020-06-16",NA,"Not detected",NA,NA
+"135",0,"OP","2020-05-19","20S-140VI0945","Detected","36.34",NA
+"135",1,"OP","2020-05-20","20S-141VI0831","Detected","30.84",NA
+"135",3,"OP","2020-05-22",NA,"Not detected",NA,NA
+"135",5,"OP","2020-05-24",NA,"Not detected",NA,"EPIC Accession date says 5/26<- not sure what this means"
+"135",7,"OP","2020-05-26",NA,"Not detected",NA,NA
+"135",10,"OP","2020-05-29","20S-150VI1084","Detected","32.5",NA
+"135",14,"OP","2020-06-02",NA,"Not detected",NA,NA
+"135",21,"OP","2020-06-09",NA,"Not detected",NA,NA
+"135",29,"OP","2020-06-16",NA,"Not detected",NA,NA
+"136",0,"OP","2020-05-20","20S-141VI0853","Detected","29.87",NA
+"136",1,"OP","2020-05-21","20S-142VI0781","Detected","32.45",NA
+"136",3,"OP","2020-05-22","20S-143VI0844","Detected","27.4",NA
+"136",5,"OP","2020-05-25","20S-147VI0663","Detected","35.12",NA
+"136",7,"OP","2020-05-27","20S-148VI0861","Detected","34.52",NA
+"136",10,"OP","2020-05-30",NA,"Not detected",NA,NA
+"136",14,"OP","2020-06-03",NA,"Not detected",NA,NA
+"136",21,"OP","2020-06-10",NA,"Not detected",NA,NA
+"136",28,"OP","2020-06-17",NA,"Not detected",NA,NA
+"137",0,"OP","2020-05-21",NA,"Not detected",NA,NA
+"137",1,"OP","2020-05-22",NA,"Not detected",NA,NA
+"137",3,"OP","2020-05-24",NA,"Not detected",NA,NA
+"137",5,"OP","2020-05-26",NA,"Not detected",NA,NA
+"137",7,"OP","2020-05-28",NA,"Not detected",NA,NA
+"137",10,"OP","2020-05-31",NA,"Not detected",NA,NA
+"137",14,"OP","2020-06-04",NA,"Not detected",NA,NA
+"137",21,"OP","2020-06-11",NA,"Not detected",NA,"Also had NP SHC Not detected"
+"137",28,"OP","2020-06-18",NA,"Not detected",NA,NA
+"138",0,"OP","2020-05-20",NA,"Not detected",NA,NA
+"138",1,"OP","2020-05-21","20S-142VI0767","Detected","36.6",NA
+"138",3,"OP","2020-05-23","20S-147VI1048","Detected","34.07",NA
+"138",5,"OP","2020-05-25",NA,"Not detected",NA,NA
+"138",7,"OP","2020-05-27",NA,"Not detected",NA,NA
+"138",10,"OP","2020-05-30",NA,"Not detected",NA,NA
+"138",14,"OP","2020-06-03",NA,"Not detected",NA,NA
+"138",21,"OP","2020-06-10",NA,"Not detected",NA,NA
+"138",27,"OP","2020-06-16",NA,"Not detected",NA,NA
+"140",0,"OP","2020-05-20","20S-141VI0810","Detected","35.15",NA
+"140",1,"OP","2020-05-21",NA,"Not detected",NA,NA
+"140",3,"OP","2020-05-23","20S-147VI0623","Detected","29.26",NA
+"140",5,"OP","2020-05-25","20S-147VI0615","Detected","25.28",NA
+"140",7,"OP","2020-05-27",NA,"Not detected",NA,NA
+"140",10,"OP","2020-05-30",NA,"Not detected",NA,NA
+"140",14,"OP","2020-06-03",NA,"Not detected",NA,NA
+"140",21,"OP","2020-06-10",NA,"Not detected",NA,NA
+"140",28,"OP","2020-06-17",NA,"Not detected",NA,NA
+"141",0,"OP","2020-05-21",NA,"Not detected",NA,NA
+"141",1,"OP","2020-05-22",NA,"Not detected",NA,NA
+"141",3,"OP","2020-05-23","20S-147VI0812","Detected","31.1",NA
+"141",4,"OP","2020-05-25",NA,"Not detected",NA,NA
+"141",7,"OP","2020-05-27",NA,"Not detected",NA,NA
+"141",10,"OP","2020-05-30","20S-153VI1095","Detected","31.87",NA
+"141",14,"OP","2020-06-03","20S-155VI0860","Detected","36.31",NA
+"141",21,"OP","2020-06-10",NA,"Not detected",NA,NA
+"141",26,"OP","2020-06-16",NA,"Not detected",NA,NA
+"142",0,"OP","2020-05-21",NA,"Not detected",NA,NA
+"142",1,"OP","2020-05-22",NA,"Not detected",NA,NA
+"142",3,"OP","2020-05-23",NA,"Not detected",NA,NA
+"142",5,"OP","2020-05-26",NA,"Not detected",NA,NA
+"142",7,"OP","2020-05-28",NA,"Not detected",NA,NA
+"142",10,"OP","2020-05-31",NA,"Not detected",NA,NA
+"142",14,"OP","2020-06-04",NA,"Not detected",NA,NA
+"142",21,"OP","2020-06-11",NA,"Not detected",NA,NA
+"142",29,"OP","2020-06-19",NA,"Not detected",NA,NA
+"143",0,"OP","2020-05-21",NA,NA,NA,"Leaking"
+"143",1,"OP","2020-05-22","20S-143VI0858","Detected","32.68",NA
+"143",3,"OP","2020-05-23","20S-147VI1115","Detected","33.34",NA
+"143",5,"OP","2020-05-25","20S-147VI1112","Detected","29.49",NA
+"143",6,"OP","2020-05-27",NA,"Not detected",NA,NA
+"143",10,"OP","2020-05-30",NA,"Not detected",NA,NA
+"143",14,"OP","2020-06-03",NA,"Not detected",NA,NA
+"143",21,"OP","2020-06-10",NA,"Not detected",NA,NA
+"143",27,"OP","2020-06-17",NA,"Not detected",NA,NA
+"144",0,"OP","2020-05-21","20S-142VI0770","Detected","36.58",NA
+"144",1,"OP","2020-05-22",NA,"Not detected",NA,NA
+"144",3,"OP","2020-05-23","20S-147VI0637","Detected","36.35",NA
+"144",5,"OP","2020-05-25","20S-147VI0644","Detected","39.66",NA
+"144",6,"OP","2020-05-27",NA,"Not detected",NA,NA
+"144",10,"OP","2020-05-30",NA,"Not detected",NA,NA
+"144",14,"OP","2020-06-03",NA,"Not detected",NA,NA
+"144",20,"OP","2020-06-09",NA,"Not detected",NA,NA
+"144",27,"OP","2020-06-16",NA,"Not detected",NA,"3.98"
+"145",0,"OP","2020-05-21","20S-143VI0498","Detected","37.1",NA
+"145",1,"OP","2020-05-22",NA,"Not detected",NA,NA
+"145",3,"OP","2020-05-24",NA,"Not detected",NA,NA
+"145",5,"OP","2020-05-26",NA,"Not detected",NA,NA
+"145",7,"OP","2020-05-28",NA,"Not detected",NA,NA
+"145",10,"OP","2020-05-31",NA,"Not detected",NA,NA
+"145",14,"OP","2020-06-04",NA,"Not detected",NA,NA
+"145",21,"OP","2020-06-11",NA,"Not detected",NA,NA
+"145",28,"OP","2020-06-19",NA,"Not detected",NA,"No IgG"
+"146",0,"OP","2020-05-21",NA,"Not detected",NA,NA
+"146",1,"OP","2020-05-22",NA,"Not detected",NA,NA
+"146",3,"OP","2020-05-23",NA,"Not detected",NA,NA
+"146",5,"OP","2020-05-26",NA,"Not detected",NA,NA
+"146",7,"OP","2020-05-28","20S-149VI0910","Detected","38",NA
+"146",10,"OP","2020-05-31",NA,"Not detected",NA,NA
+"146",14,"OP","2020-06-04",NA,"Not detected",NA,NA
+"146",21,"OP","2020-06-11",NA,"Not detected",NA,NA
+"146",29,"OP","2020-06-19",NA,"Not detected",NA,"No IgG"
+"148",0,"OP","2020-05-21","20S-143VI0466","Detected","38.51",NA
+"148",1,"OP","2020-05-22",NA,"Not detected",NA,NA
+"148",3,"OP","2020-05-24",NA,"Not detected",NA,NA
+"148",5,"OP","2020-05-26",NA,"Not detected",NA,NA
+"148",7,"OP","2020-05-28",NA,"Not detected",NA,NA
+"148",10,"OP","2020-05-31",NA,"Not detected",NA,NA
+"148",14,"OP","2020-06-04",NA,"Not detected",NA,NA
+"148",21,"OP","2020-06-11",NA,"Not detected",NA,NA
+"148",29,"OP","2020-06-19",NA,"Not detected",NA,"No Antibodies"
+"150",0,"OP","2020-05-21",NA,"Not detected",NA,NA
+"150",1,"OP","2020-05-22",NA,"Not detected",NA,NA
+"150",3,"OP","2020-05-24",NA,"Not detected",NA,NA
+"150",5,"OP","2020-05-26",NA,"Not detected",NA,NA
+"150",7,"OP","2020-05-28","20S-149VI0913","Detected","38.2",NA
+"150",10,"OP","2020-05-31",NA,"Not detected",NA,NA
+"150",14,"OP","2020-06-04",NA,"Not detected",NA,NA
+"150",21,"OP","2020-06-11",NA,"Not detected",NA,NA
+"150",29,"OP","2020-06-19",NA,"Not detected",NA,"Needs IgG"
+"154",0,"OP","2020-05-23","20S-147VI1042","Detected","24.58","Memorial Day weekend mixup: mistakenly dated 5/26 in EPIC"
+"154",1,"OP","2020-05-24","20S-147VI0804","Detected","26.59",NA
+"154",3,"OP","2020-05-26","20S-147VI1258","Detected","28.96",NA
+"154",5,"OP","2020-05-28","20S-149VI0919","Detected","33",NA
+"154",7,"OP","2020-05-30","20S-153VI0899","Detected","33.08",NA
+"154",10,"OP","2020-06-02",NA,"Not detected",NA,NA
+"154",14,"OP","2020-06-06",NA,"Not detected",NA,NA
+"154",21,"OP","2020-06-13",NA,"Not detected",NA,NA
+"154",28,"OP","2020-06-20",NA,"Not detected",NA,NA
+"158",0,"OP","2020-05-24",NA,"Not detected",NA,NA
+"158",1,"OP","2020-05-25","20S-147VI0603","Detected","29.25",NA
+"158",3,"OP","2020-05-26","20S-147VI1259","Detected","30.99",NA
+"158",5,"OP","2020-05-28","20S-149VI0894","Detected","34.3",NA
+"158",7,"OP","2020-05-30","20S-153VI0914","Detected","38.66",NA
+"158",10,"OP","2020-06-02","20S-154VI0958","Detected","39.51",NA
+"158",13,"OP","2020-06-06",NA,"Not detected",NA,NA
+"158",20,"OP","2020-06-13",NA,"Not detected",NA,NA
+"158",27,"OP","2020-06-20",NA,"Not detected",NA,NA
+"160",0,"OP","2020-05-24",NA,"Not detected",NA,NA
+"160",1,"OP","2020-05-26",NA,"Not detected",NA,NA
+"160",3,"OP","2020-05-27",NA,"Not detected",NA,NA
+"160",5,"OP","2020-05-29",NA,"Not detected",NA,NA
+"160",7,"OP","2020-05-31",NA,"Not detected",NA,NA
+"160",10,"OP","2020-06-03",NA,"Not detected",NA,NA
+"160",14,"OP","2020-06-07",NA,"Not detected",NA,NA
+"160",21,"OP","2020-06-14",NA,"Not detected",NA,NA
+"160",27,"OP","2020-06-20",NA,"Not detected",NA,NA
+"162",0,"OP","2020-05-26","20S-148VI0885","Detected","29.71",NA
+"162",1,"OP","2020-05-27","20S-148VI0878","Detected","34.23",NA
+"162",3,"OP","2020-05-29","20S-150VI1090","Detected","25.1",NA
+"162",5,"OP","2020-05-31","20S-153VI1023","Detected","37.55",NA
+"162",7,"OP","2020-06-02","20S-154VI0930","Detected","27.98",NA
+"162",10,"OP","2020-06-05",NA,"Not detected",NA,NA
+"162",14,"OP","2020-06-09",NA,"Not detected",NA,NA
+"162",21,"OP","2020-06-16",NA,"Not detected",NA,NA
+"162",28,"OP","2020-06-23",NA,"Not detected",NA,NA
+"164",0,"OP","2020-05-26","20S-147VI1249","Detected","23.23",NA
+"164",1,"OP","2020-05-27",NA,"Not detected",NA,NA
+"164",3,"OP","2020-05-29","20S-150VI1069","Detected","28.97",NA
+"164",5,"OP","2020-05-31","20S-153VI1068","Detected","38.58",NA
+"164",7,"OP","2020-06-02",NA,"Not detected",NA,NA
+"164",10,"OP","2020-06-05","20S-157VI0883","Detected","37.61",NA
+"164",14,"OP","2020-06-09","20S-161VI1149","Detected","39.4",NA
+"164",21,"OP","2020-06-16",NA,"Not detected",NA,NA
+"164",28,"OP","2020-06-23",NA,"Not detected",NA,NA
+"165",0,"OP","2020-05-26","20S-147VI1254","Detected","18.92",NA
+"165",1,"OP","2020-05-27","20S-148VI0872","Detected","18.9",NA
+"165",3,"OP","2020-05-29","20S-150VI1085","Detected","28.3",NA
+"165",5,"OP","2020-05-31","20S-153VI0845","Detected","23.04",NA
+"165",7,"OP","2020-06-02","20S-154VI0937","Detected","33.34",NA
+"165",10,"OP","2020-06-05","20S-157VI090","Detected","36.75",NA
+"165",14,"OP","2020-06-09",NA,"Not detected",NA,NA
+"165",21,"OP","2020-06-16",NA,"Not detected",NA,NA
+"165",28,"OP","2020-06-23",NA,"Not detected",NA,NA
+"166",0,"OP","2020-05-28",NA,"Not detected",NA,"Leaking"
+"166",1,"OP","2020-05-29",NA,"Not detected",NA,NA
+"166",3,"OP","2020-05-31",NA,"Not detected",NA,NA
+"166",5,"OP","2020-06-02",NA,"Not detected",NA,NA
+"166",7,"OP","2020-06-04",NA,"Not detected",NA,NA
+"166",10,"OP","2020-06-07",NA,"Not detected",NA,NA
+"166",14,"OP","2020-06-11",NA,"Not detected",NA,NA
+"166",21,"OP","2020-06-18",NA,"Not detected",NA,NA
+"166",28,"OP","2020-06-25",NA,"Not detected",NA,NA
+"168",0,"OP","2020-05-29","20S-150VI1093","Detected","30.3",NA
+"168",1,"OP","2020-05-30",NA,"Not detected",NA,NA
+"168",3,"OP","2020-06-01","20S-153VI1181","Detected","35.94",NA
+"168",5,"OP","2020-06-03","20S-155VI0850","Detected","35.9",NA
+"168",7,"OP","2020-06-05","20S-157VI0912","Detected","33.86",NA
+"168",10,"OP","2020-06-08","20S-160VI1417","Detected","38.35",NA
+"168",14,"OP","2020-06-12",NA,"Not detected",NA,NA
+"168",21,"OP","2020-06-19","20S-171VI1254 ","Detected","38.51",NA
+"168",28,"OP","2020-06-29",NA,"Not detected",NA,NA
+"170",0,"OP","2020-05-31",NA,"Not detected",NA,"mislabeled tubes I think. She started on 5/30"
+"170",1,"OP","2020-06-01","20S-153VI0881","Detected","38.77",NA
+"170",2,"OP","2020-06-02","20S-1534VI0913","Detected","35.57",NA
+"170",5,"OP","2020-06-04",NA,"Not detected",NA,NA
+"170",7,"OP","2020-06-06",NA,"Not detected",NA,NA
+"170",10,"OP","2020-06-08",NA,"Not detected",NA,NA
+"170",13,"OP","2020-06-12",NA,"Not detected",NA,NA
+"170",20,"OP","2020-06-19",NA,"Not detected",NA,NA
+"170",28,"OP","2020-06-27",NA,"Not detected",NA,NA
+"173",0,"OP","2020-05-30","20S-153VI1102","Detected","26.75",NA
+"173",1,"OP","2020-05-31","20S-153VI1028","Detected","29.55",NA
+"173",3,"OP","2020-06-02","20S-154VI0947","Detected","36.56",NA
+"173",5,"OP","2020-06-04",NA,"Not detected",NA,NA
+"173",7,"OP","2020-06-06",NA,"Not detected",NA,NA
+"173",10,"OP","2020-06-09",NA,"Not detected",NA,NA
+"173",14,"OP","2020-06-13","20S-165VI0570","Detected","34.15",NA
+"173",21,"OP","2020-06-20",NA,"Not detected",NA,NA
+"173",28,"OP","2020-06-27",NA,NA,NA,"Missed visit"
+"174",0,"OP","2020-05-30","20S-153VI0860","Detected","35.2",NA
+"174",1,"OP","2020-05-31","20S-153VI1108","Detected","38.61",NA
+"174",3,"OP","2020-06-02","20S-154VI0920","Detected","34.91",NA
+"174",5,"OP","2020-06-04",NA,"Not detected",NA,NA
+"174",7,"OP","2020-06-06",NA,"Not detected",NA,NA
+"174",10,"OP","2020-06-09",NA,"Not detected",NA,NA
+"174",14,"OP","2020-06-13",NA,"Not detected",NA,NA
+"174",21,"OP","2020-06-20",NA,"Not detected",NA,NA
+"174",28,"OP","2020-06-27",NA,"Not detected",NA,NA
+"181",0,"OP","2020-06-04","20S-156VI0847","Detected"," 36.23",NA
+"181",2,"OP","2020-06-06",NA,"Not detected",NA,"Day 3-1"
+"181",5,"OP","2020-06-09",NA,"Not detected",NA,NA
+"181",7,"OP","2020-06-11",NA,"Not detected",NA,NA
+"181",10,"OP","2020-06-14",NA,"Not detected",NA,NA
+"181",14,"OP","2020-06-18",NA,"Not detected",NA,NA
+"181",21,"OP","2020-06-25",NA,"Not detected",NA,NA
+"181",28,"OP","2020-07-02",NA,"Not detected",NA,NA
+"183",0,"OP","2020-06-04","20S-156VI0853","Detected","28.55",NA
+"183",1,"OP","2020-06-05","20S-157VI0915","Detected","27.73",NA
+"183",3,"OP","2020-06-07","20S-160VI0582","Detected","32.68",NA
+"183",5,"OP","2020-06-09","20S-161VI1135","Detected","32.02",NA
+"183",7,"OP","2020-06-11","20S-163VI0961","Not detected",NA,NA
+"183",10,"OP","2020-06-14",NA,"Not detected",NA,NA
+"183",14,"OP","2020-06-18","20S-170VI1038","Detected","35.55",NA
+"183",21,"OP","2020-06-25",NA,"Not detected",NA,NA
+"183",28,"OP","2020-07-02",NA,"Not detected",NA,NA
+"184",0,"OP","2020-06-05","20S-157VI0908","Detected","28.97",NA
+"184",1,"OP","2020-06-06","20S-160VI0678","Detected","32.36",NA
+"184",3,"OP","2020-06-08",NA,"Not detected",NA,NA
+"184",5,"OP","2020-06-10","20S-162VI0862","Detected","33.5",NA
+"184",7,"OP","2020-06-12",NA,"Not detected",NA,NA
+"184",10,"OP","2020-06-15","20S-167VI1449","Detected","37.12",NA
+"184",15,"OP","2020-06-20",NA,"Not detected",NA,NA
+"184",21,"OP","2020-06-26",NA,"Not detected",NA,NA
+"184",28,"OP","2020-07-03",NA,"Not detected",NA,NA
+"195",0,"OP","2020-06-08","20S-160VI1410","Detected","23.19",NA
+"195",1,"OP","2020-06-09","20S-161VI1144","Detected","24.71",NA
+"195",3,"OP","2020-06-11","20S-163VI0927","Detected","37.9","Repeated"
+"195",5,"OP","2020-06-13","20S-165VI0584","Detected","28.51",NA
+"195",7,"OP","2020-06-15","20S-167VI1454","Detected","31.31",NA
+"195",10,"OP","2020-06-18","20S-170VI1041","Detected","31.38",NA
+"195",14,"OP","2020-06-22",NA,"Not detected",NA,NA
+"195",21,"OP","2020-06-30","20S-182VI1592","Not detected",NA,"UPDATED"
+"195",28,"OP","2020-07-06",NA,"Not detected",NA,NA
+"196",0,"OP","2020-06-08",NA,"Not detected",NA,NA
+"196",1,"OP","2020-06-09","20S-161VI1132","Detected","32.02",NA
+"196",3,"OP","2020-06-11","20S-163VI0940","Detected","36.6",NA
+"196",5,"OP","2020-06-13",NA,"Not detected",NA,NA
+"196",7,"OP","2020-06-15",NA,"Not detected",NA,NA
+"196",10,"OP","2020-06-18","20S-235VI0052","Detected","37.38","Leaking"
+"196",15,"OP","2020-06-23",NA,"Not detected",NA,NA
+"196",22,"OP","2020-06-30","20S-182VI1582","Detected","33.55",NA
+"196",29,"OP","2020-07-07",NA,"Not detected",NA,NA
+"199",0,"OP","2020-06-11","20S-163VI0933","Detected","28.56",NA
+"199",1,"OP","2020-06-12",NA,"Not detected",NA,NA
+"199",3,"OP","2020-06-14","20-167VI0457","Detected","39.4",NA
+"199",5,"OP","2020-06-16",NA,"Not detected",NA,NA
+"199",7,"OP","2020-06-18","20S-170VI1029","Detected","37.03",NA
+"199",10,"OP","2020-06-21",NA,"Not detected",NA,"Leaking"
+"199",15,"OP","2020-06-26",NA,"Not detected",NA,NA
+"199",21,"OP","2020-07-03",NA,"Not detected",NA,NA
+"199",31,"OP","2020-07-12",NA,"Not detected",NA,NA
+"200",0,"OP","2020-06-11","20S-163VI0931","Detected","30.57","Repeating"
+"200",1,"OP","2020-06-12","20S-164VI1119","Detected","32.72",NA
+"200",3,"OP","2020-06-14","20S-167VI0413","Detected","30.33",NA
+"200",5,"OP","2020-06-16",NA,"Not detected",NA,NA
+"200",7,"OP","2020-06-18","20S-170VI1043","Detected","26.55",NA
+"200",10,"OP","2020-06-21","20S-174VI1440","Detected","31.56",NA
+"200",14,"OP","2020-06-25","20S-177VI1329","Detected","39.31",NA
+"200",21,"OP","2020-07-02",NA,"Not detected",NA,NA
+"200",28,"OP","2020-07-09",NA,"Not detected",NA,NA
+"202",0,"OP","2020-06-11","20S-163VI0920","Detected","38.4","Repeating"
+"202",1,"OP","2020-06-12","20S-164VI1116","Detected","37.61",NA
+"202",3,"OP","2020-06-14","20S-167VI0396","Detected","35.02",NA
+"202",5,"OP","2020-06-16","20S-168VI1241","Detected","36.87",NA
+"202",7,"OP","2020-06-18","20S-170VI1032","Detected","39.01",NA
+"202",10,"OP","2020-06-21","20S-174VI1371","Detected","32.66",NA
+"202",14,"OP","2020-06-25","20S-177VI1323","Detected","33.4",NA
+"202",21,"OP","2020-07-02",NA,"Not detected",NA,NA
+"202",28,"OP","2020-07-09",NA,"Not detected",NA,NA
+"205",0,"OP","2020-06-11","20S-163VI0926","Detected","30.72",NA
+"205",1,"OP","2020-06-12","20S-164VI1105","Detected","27.42",NA
+"205",3,"OP","2020-06-14","20S-167VI0450","Detected","23.62",NA
+"205",5,"OP","2020-06-16","20S-168VI1252","Detected","21",NA
+"205",7,"OP","2020-06-18","20S-170VI1031","Detected","31.5",NA
+"205",10,"OP","2020-06-21","20S-174VI1348","Detected","33.37",NA
+"205",14,"OP","2020-06-25",NA,"Not detected",NA,NA
+"205",21,"OP","2020-07-01",NA,"Not detected",NA,NA
+"205",28,"OP","2020-07-09",NA,"Not detected",NA,NA
+"206",0,"OP","2020-06-12","20S-164VI1102","Detected","36.09",NA
+"206",1,"OP","2020-06-13","20S-165VI0567","Detected","36.62",NA
+"206",3,"OP","2020-06-15",NA,"Not detected",NA,NA
+"206",5,"OP","2020-06-17",NA,"Not detected",NA,NA
+"206",7,"OP","2020-06-19","20S-171VI1227","Detected","39.29",NA
+"206",10,"OP","2020-06-22",NA,"Not detected",NA,NA
+"206",14,"OP","2020-06-26",NA,NA,NA,"Missed visit"
+"206",21,"OP","2020-07-03",NA,"Not detected",NA,NA
+"206",28,"OP","2020-07-10",NA,"Not detected",NA,NA
+"209",0,"OP","2020-06-12","20S-164VI1109","Detected","32.4",NA
+"209",1,"OP","2020-06-13","20S-165VI0569","Detected","24.01",NA
+"209",3,"OP","2020-06-15","20S-167VI1459","Detected","32.86",NA
+"209",5,"OP","2020-06-17","20S-169VI0993","Detected","37.5",NA
+"209",7,"OP","2020-06-19","20S-235VI0050","Detected","39.22","Leaking"
+"209",10,"OP","2020-06-22","20S-174VI1579","Detected","35.19",NA
+"209",14,"OP","2020-06-26",NA,"Not detected",NA,NA
+"209",17,"OP","2020-06-29",NA,"Not detected",NA,NA
+"209",21,"OP","2020-07-03",NA,"Not detected",NA,NA
+"209",28,"OP","2020-07-10",NA,"Not detected",NA,NA
+"210",0,"OP","2020-06-13","20S-165VI0581","Detected","39.2",NA
+"210",1,"OP","2020-06-14",NA,"Not detected",NA,NA
+"210",3,"OP","2020-06-16",NA,"Not detected",NA,NA
+"210",5,"OP","2020-06-18",NA,"Not detected",NA,NA
+"210",7,"OP","2020-06-20","20S-174VI1474 ","Detected","39.16",NA
+"210",10,"OP","2020-06-23",NA,"Not detected",NA,NA
+"210",14,"OP","2020-06-27",NA,"Not detected",NA,NA
+"210",21,"OP","2020-07-05",NA,"Not detected",NA,NA
+"210",28,"OP","2020-07-12",NA,"Not detected",NA,NA
+"215",0,"OP","2020-06-16","20S-168VI1264","Detected","36.47",NA
+"215",1,"OP","2020-06-17","20S-169VI0997","Detected","35.72",NA
+"215",3,"OP","2020-06-19","20S-171VI1260","Detected","37.81",NA
+"215",6,"OP","2020-06-22","20S-174VI1341","Detected","34.51",NA
+"215",7,"OP","2020-06-23",NA,"Not detected",NA,NA
+"215",10,"OP","2020-06-26",NA,"Not detected",NA,NA
+"215",14,"OP","2020-06-30",NA,"Not detected",NA,NA
+"215",21,"OP","2020-07-07",NA,"Not detected",NA,NA
+"215",28,"OP","2020-07-14",NA,"Not detected",NA,NA
+"217",0,"OP","2020-06-17","20S-169VI0998","Detected","31.08",NA
+"217",1,"OP","2020-06-18","20S-170VI1025","Detected","21.78",NA
+"217",3,"OP","2020-06-20","20S-174VI1322","Detected","26.43",NA
+"217",5,"OP","2020-06-22","20S-174VI1586","Detected","25.29",NA
+"217",7,"OP","2020-06-24","20S-176VI1116","Detected","29",NA
+"217",10,"OP","2020-06-27",NA,"Not detected",NA,NA
+"217",14,"OP","2020-07-01","20S-183VI1525","Detected","31.65",NA
+"217",21,"OP","2020-07-08","20S-190VI1488","Detected","31.07",NA
+"217",28,"OP","2020-07-15","20S-197VI1615","Detected","35.67",NA
+"218",0,"OP","2020-06-17","20S-169VI0985","Detected","26.28",NA
+"218",1,"OP","2020-06-18","20S-170VI1030","Detected","22.02",NA
+"218",3,"OP","2020-06-20","20S-174VI1084","Detected","26.27",NA
+"218",5,"OP","2020-06-22","20S-174VI1595","Detected","31.6",NA
+"218",7,"OP","2020-06-24","20S-176VI1131","Detected","34.1",NA
+"218",10,"OP","2020-06-27","20S-181VI1610 ","Detected","36.19",NA
+"218",14,"OP","2020-07-01","20S-183VI1506","Detected","35.44",NA
+"218",21,"OP","2020-07-08","20S-190VI1500 ","Detected","35.91",NA
+"218",28,"OP","2020-07-15","20S-197VI1620","Detected","41.38","there are more after but did not include"
+"221",0,"OP","2020-06-18",NA,"Not detected",NA,NA
+"221",1,"OP","2020-06-19",NA,"Not detected",NA,NA
+"221",3,"OP","2020-06-21",NA,"Not detected",NA,NA
+"221",5,"OP","2020-06-23","20S-175VI1464","Detected","34.84",NA
+"221",8,"OP","2020-06-26",NA,"Not detected",NA,NA
+"221",10,"OP","2020-06-28",NA,"Not detected",NA,NA
+"221",14,"OP","2020-07-01","20S-183VI1513","Detected","39.15",NA
+"221",20,"OP","2020-07-08","20S-190VI1510","Detected","37.36",NA
+"221",28,"OP","2020-07-15",NA,"Not detected",NA,NA
+"223",0,"OP","2020-06-18",NA,"Not detected",NA,NA
+"223",1,"OP","2020-06-19","20S-171VI1236","Detected","39.35",NA
+"223",3,"OP","2020-06-21",NA,"Not detected",NA,NA
+"223",5,"OP","2020-06-23","20S-175VI1481","Detected","38.04",NA
+"223",7,"OP","2020-06-25",NA,"Not detected",NA,NA
+"223",10,"OP","2020-06-28","20S-181VI1649 ","Detected","38.5",NA
+"223",14,"OP","2020-07-02",NA,"Not detected",NA,NA
+"223",21,"OP","2020-07-09",NA,"Not detected",NA,NA
+"223",28,"OP","2020-07-16",NA,"Not detected",NA,NA
+"222",0,"OP","2020-06-18",NA,"Not detected",NA,NA
+"222",1,"OP","2020-06-19",NA,"Not detected",NA,NA
+"222",3,"OP","2020-06-21",NA,"Not detected",NA,NA
+"222",5,"OP","2020-06-23",NA,"Not detected",NA,NA
+"222",7,"OP","2020-06-25",NA,"Not detected",NA,NA
+"222",10,"OP","2020-06-28",NA,"Not detected",NA,NA
+"222",14,"OP","2020-07-05",NA,"Not detected",NA,NA
+"222",21,"OP","2020-07-10",NA,"Not detected",NA,NA
+"222",24,"OP","2020-07-12",NA,"Not detected",NA,NA
+"222",28,"OP","2020-07-19",NA,"Not detected",NA,NA
+"225",0,"OP","2020-06-20","20S-174VI1053","Detected","25.65",NA
+"225",1,"OP","2020-06-21","20S-174VI1435","Detected","33.71",NA
+"225",3,"OP","2020-06-23","20S-175VI1445 ","Detected","39.38",NA
+"225",5,"OP","2020-06-25","20S-177VI1318","Detected","38.84",NA
+"225",7,"OP","2020-06-27",NA,"Not detected",NA,NA
+"225",10,"OP","2020-06-30",NA,"Not detected",NA,NA
+"225",14,"OP","2020-07-04",NA,NA,NA,"withdrawn"
+"225",21,"OP","2020-07-11",NA,NA,NA,"withdrawn"
+"225",28,"OP","2020-07-18",NA,NA,NA,"withdrawn"
+"227",0,"OP","2020-06-20","20S-174VI1316","Detected","35.15",NA
+"227",1,"OP","2020-06-21","20S-174VI1429 ","Detected","29.43",NA
+"227",3,"OP","2020-06-23",NA,"Not detected",NA,NA
+"227",5,"OP","2020-06-25","20S-177VI1337","Detected","35.64",NA
+"227",7,"OP","2020-06-27",NA,"Not detected",NA,NA
+"227",10,"OP","2020-06-30",NA,"Not detected",NA,NA
+"227",14,"OP","2020-07-02",NA,"Not detected",NA,NA
+"227",21,"OP","2020-07-11",NA,"Not detected",NA,NA
+"227",28,"OP","2020-07-18",NA,"Not detected",NA,NA
+"228",0,"OP","2020-06-20","20S-174VI1111","Detected","19.59",NA
+"228",1,"OP","2020-06-21","20S-174VI1444","Detected","22.77",NA
+"228",3,"OP","2020-06-23","20S-175VI1453","Detected","33.41",NA
+"228",5,"OP","2020-06-25","20S-177VI1332","Detected","32.02",NA
+"228",7,"OP","2020-06-27",NA,"Not detected",NA,NA
+"228",10,"OP","2020-06-30","20S-182VI1585","Detected","36.39",NA
+"228",15,"OP","2020-07-05","20S-188VI1057","Detected","30.05",NA
+"228",21,"OP","2020-07-12",NA,"Not detected",NA,NA
+"228",28,"OP","2020-07-20",NA,"Not detected",NA,NA
+"232",0,"OP","2020-06-23",NA,"Not detected",NA,NA
+"232",1,"OP","2020-06-24",NA,"Not detected",NA,NA
+"232",3,"OP","2020-06-26",NA,"Not detected",NA,NA
+"232",5,"OP","2020-06-28",NA,"Not detected",NA,NA
+"232",7,"OP","2020-06-30",NA,"Not detected",NA,NA
+"232",10,"OP","2020-07-03",NA,"Not detected",NA,NA
+"232",14,"OP","2020-07-07","20S-189VI1662","Detected","37.78",NA
+"232",21,"OP","2020-07-14",NA,"Not detected",NA,NA
+"232",28,"OP","2020-07-21",NA,"Not detected",NA,NA
+"233",0,"OP","2020-06-23","20S-175VI1470 ","Detected","34.55",NA
+"233",1,"OP","2020-06-24",NA,"Not detected",NA,NA
+"233",3,"OP","2020-06-26",NA,"Not detected",NA,NA
+"233",5,"OP","2020-06-28",NA,"Not detected",NA,NA
+"233",8,"OP","2020-07-01",NA,"Not detected",NA,NA
+"233",10,"OP","2020-07-03",NA,"Not detected",NA,NA
+"233",15,"OP","2020-07-08",NA,"Not detected",NA,NA
+"233",21,"OP","2020-07-15",NA,"Not detected",NA,NA
+"233",28,"OP","2020-07-25",NA,"Not detected",NA,NA
+"237",0,"OP","2020-06-25",NA,"Not detected",NA,NA
+"237",1,"OP","2020-06-26",NA,"Not detected",NA,NA
+"237",3,"OP","2020-06-28",NA,"Not detected",NA,NA
+"237",6,"OP","2020-07-01",NA,"Not detected",NA,NA
+"237",7,"OP","2020-07-03",NA,"Not detected",NA,NA
+"237",10,"OP","2020-07-05",NA,"Not detected",NA,"EPIC result wrong patient"
+"237",14,"OP","2020-07-08",NA,"Not detected",NA,NA
+"237",21,"OP","2020-07-17",NA,"Not detected",NA,NA
+"237",33,"OP","2020-07-28",NA,"Not detected",NA,NA
+"243",0,"OP","2020-06-25","20S-177VI1325","Detected","31.21",NA
+"243",1,"OP","2020-06-26","20S-178VI1494","Detected","20.94",NA
+"243",3,"OP","2020-06-28","20S-181VI1655","Not detected",NA,"Updated Value"
+"243",5,"OP","2020-06-30","20S-182VI1590 ","Detected","26.21",NA
+"243",7,"OP","2020-07-02",NA,"Not detected",NA,NA
+"243",10,"OP","2020-07-04","20S-188VI1085","Detected","37.32",NA
+"243",14,"OP","2020-07-09",NA,"Not detected",NA,NA
+"243",21,"OP","2020-07-16",NA,"Not detected",NA,NA
+"243",28,"OP","2020-07-24",NA,"Not detected",NA,NA
+"248",0,"OP","2020-06-26","20S-178VI1467","Detected","23.43",NA
+"248",1,"OP","2020-06-27","20S-181VI1608 ","Detected","24.34",NA
+"248",3,"OP","2020-06-29","20S-181VI1753","Detected","33.11",NA
+"248",5,"OP","2020-07-01","20S-183VI1442","Detected","33.7",NA
+"248",7,"OP","2020-07-03","20S-185VI0313","Detected","31.75",NA
+"248",10,"OP","2020-07-06","20S-188VI1452","Detected","34.78",NA
+"248",14,"OP","2020-07-10","20S-192VI1566","Detected","36.55",NA
+"248",21,"OP","2020-07-17","20S-199VI1611","Detected","30.77",NA
+"248",28,"OP","2020-07-23","20S-205VI1420","Detected","39.98",NA
+"249",0,"OP","2020-06-26",NA,"Not detected",NA,NA
+"249",1,"OP","2020-06-27",NA,"Not detected",NA,NA
+"249",3,"OP","2020-06-29",NA,"Not detected",NA,NA
+"249",5,"OP","2020-07-01",NA,"Not detected",NA,NA
+"249",7,"OP","2020-07-03",NA,"Not detected",NA,NA
+"249",10,"OP","2020-07-06",NA,"Not detected",NA,NA
+"249",14,"OP","2020-07-10",NA,"Not detected",NA,NA
+"249",21,"OP","2020-07-17",NA,"Not detected",NA,NA
+"249",28,"OP","2020-07-24",NA,"Not detected",NA,NA
+"251",0,"OP","2020-06-27","20S-181VI1591","Detected","27.32",NA
+"251",1,"OP","2020-06-28","20S-181VI1650 ","Detected","23.58",NA
+"251",3,"OP","2020-06-30","20S-182VI1580","Detected","33.34",NA
+"251",5,"OP","2020-07-02","20S-184VI1626","Detected","28.98",NA
+"251",7,"OP","2020-07-05","20S-188VI1153 ","Detected","30.03",NA
+"251",10,"OP","2020-07-07",NA,"Not detected",NA,NA
+"251",13,"OP","2020-07-10","20S-192VI1228 ","Detected","32.22",NA
+"251",14,"OP","2020-07-11","20S-195VI1463","Detected","36.65",NA
+"251",21,"OP","2020-07-18","20S-235VI0047","Detected","33.34","Frozen"
+"251",28,"OP","2020-07-25","20S-235VI0049","Detected","38.18","Frozen"
+"254",0,"OP","2020-06-27",NA,"Not detected",NA,NA
+"254",1,"OP","2020-06-28","20S-181VI1631 ","Detected","31.48",NA
+"254",3,"OP","2020-06-30","20S-182VI1579 ","Not detected",NA,NA
+"254",5,"OP","2020-07-02","20S-184VI1622","Detected","32.31",NA
+"254",7,"OP","2020-07-05",NA,"Not detected",NA,NA
+"254",10,"OP","2020-07-07",NA,"Not detected",NA,NA
+"254",14,"OP","2020-07-11",NA,"Not detected",NA,NA
+"254",21,"OP","2020-07-18",NA,NA,NA,"Withdrawn"
+"254",28,"OP","2020-07-25",NA,NA,NA,"Withdrawn"
+"253",0,"OP","2020-06-27","20S-181VI1652 ","Detected","25.96",NA
+"253",1,"OP","2020-06-28","20S-235VI0065","Detected","27.48","Leaking"
+"253",3,"OP","2020-06-30","20S-182VI1584 ","Detected","33.12",NA
+"253",5,"OP","2020-07-02",NA,"Not detected",NA,NA
+"253",8,"OP","2020-07-05","20S-188VI1600 ","Detected","35.19",NA
+"253",10,"OP","2020-07-07",NA,"Not detected",NA,NA
+"253",14,"OP","2020-07-11",NA,"Not detected",NA,NA
+"253",21,"OP","2020-07-18",NA,"Not detected",NA,NA
+"253",28,"OP","2020-07-25",NA,"Not detected",NA,NA
+"256",0,"OP","2020-06-28","20S-181VI1621 ","Detected","31.4",NA
+"256",1,"OP","2020-06-29","20S-181VI1718","Detected","25.41",NA
+"256",3,"OP","2020-07-01","20S-183VI1476","Detected","27.9",NA
+"256",5,"OP","2020-07-03","20S-185VI0491","Detected","34.95",NA
+"256",7,"OP","2020-07-05","20S-188VI1172","Detected","36.55",NA
+"256",11,"OP","2020-07-09",NA,"Not detected",NA,NA
+"256",14,"OP","2020-07-13",NA,"Not detected",NA,NA
+"256",22,"OP","2020-07-20","20S-202VI1765","Detected","38.91",NA
+"256",29,"OP","2020-07-27",NA,"Not detected",NA,NA
+"252",0,"OP","2020-06-28","20S-181VI1587","Detected","33.08",NA
+"252",1,"OP","2020-06-29","20S-181VI1713","Detected","36.81",NA
+"252",3,"OP","2020-07-01","20S-183VI1468","Detected","35.99",NA
+"252",5,"OP","2020-07-03",NA,"Not detected",NA,NA
+"252",7,"OP","2020-07-05","20S-188VI1733","Detected","38.14","Entered in EPIC under incorrect patient (237)"
+"252",10,"OP","2020-07-08",NA,"Not detected",NA,NA
+"252",14,"OP","2020-07-12",NA,"Not detected",NA,NA
+"252",21,"OP","2020-07-19",NA,"Not detected",NA,NA
+"252",28,"OP","2020-07-26",NA,"Not detected",NA,NA
+"257",0,"OP","2020-06-29","20S-181VI1740","Detected","36.08",NA
+"257",1,"OP","2020-06-30","20S-182VI1598","Detected","21.48",NA
+"257",3,"OP","2020-07-02",NA,"Not detected",NA,NA
+"257",5,"OP","2020-07-05","20S-188VI1114","Detected","32.45",NA
+"257",7,"OP","2020-07-06",NA,"Not detected",NA,NA
+"257",9,"OP","2020-07-08",NA,"Not detected",NA,NA
+"257",14,"OP","2020-07-13",NA,"Not detected",NA,NA
+"257",22,"OP","2020-07-21",NA,"Not detected",NA,NA
+"257",29,"OP","2020-07-28",NA,"Not detected",NA,NA
+"258",0,"OP","2020-06-29","20S-181VI1703","Detected","28.18",NA
+"258",1,"OP","2020-06-30","20S-182VI1581","Detected","30.95",NA
+"258",3,"OP","2020-07-02",NA,"Not detected",NA,NA
+"258",5,"OP","2020-07-03","20S-185VI0504","Detected","35.74",NA
+"258",7,"OP","2020-07-06","20S-188VI1463","Detected","37.3",NA
+"258",10,"OP","2020-07-09","20S-191VI1293","Detected","39.6",NA
+"258",14,"OP","2020-07-13","20S-195VI1854","Detected","37.84",NA
+"258",21,"OP","2020-07-20",NA,"Not detected",NA,NA
+"258",28,"OP","2020-07-27",NA,"Not detected",NA,NA
+"264",0,"OP","2020-06-29",NA,"Not detected",NA,NA
+"264",1,"OP","2020-06-30","20S-182VI1569","Detected","36.54",NA
+"264",3,"OP","2020-07-02",NA,"Not detected",NA,NA
+"264",5,"OP","2020-07-03","20S-185VI0323","Not detected",NA,"Updated"
+"264",7,"OP","2020-07-06",NA,"Not detected",NA,NA
+"264",10,"OP","2020-07-09",NA,"Not detected",NA,NA
+"264",14,"OP","2020-07-13","20S-195VI1846","Detected","39.81",NA
+"264",21,"OP","2020-07-20","20S-202VI1805","Detected","36.97",NA
+"264",28,"OP","2020-07-27",NA,"Not detected",NA,NA
+"265",0,"OP","2020-06-30","20S-182VI1576 ","Not detected",NA,"Updated"
+"265",1,"OP","2020-07-01","20S-183VI1500","Not detected",NA,"Updated"
+"265",3,"OP","2020-07-03",NA,"Not detected",NA,NA
+"265",5,"OP","2020-07-05",NA,"Not detected",NA,NA
+"265",7,"OP","2020-07-07",NA,"Not detected",NA,NA
+"265",10,"OP","2020-07-10","20S-192VI1716 ","Detected","38.84",NA
+"265",14,"OP","2020-07-14",NA,"Not detected",NA,NA
+"265",21,"OP","2020-07-21",NA,"Not detected",NA,NA
+"265",28,"OP","2020-07-28",NA,"Not detected",NA,NA
+"267",0,"OP","2020-06-30","20S-182VI1601","Detected","34.05",NA
+"267",1,"OP","2020-07-01","20S-183VI1518","Detected","32",NA
+"267",3,"OP","2020-07-03",NA,"Not detected",NA,NA
+"267",5,"OP","2020-07-05","20S-188VI1125","Detected","33.25",NA
+"267",7,"OP","2020-07-07","20S-235VI0054","Detected","35.68","Leaking"
+"267",10,"OP","2020-07-10","20S-192VI1591 ","Detected","37.02",NA
+"267",14,"OP","2020-07-14",NA,"Not detected",NA,NA
+"267",21,"OP","2020-07-21",NA,"Not detected",NA,NA
+"267",28,"OP","2020-07-28",NA,"Not detected",NA,NA
+"266",0,"OP","2020-06-30","20S-182VI1566","Detected","25.97",NA
+"266",1,"OP","2020-07-01","20S-183VI1481","Detected","24.92",NA
+"266",3,"OP","2020-07-03","20S-185VI0497","Detected","31.28",NA
+"266",5,"OP","2020-07-05","20S-188VI1566","Detected","39.93",NA
+"266",7,"OP","2020-07-07",NA,"Not detected",NA,NA
+"266",10,"OP","2020-07-10",NA,"Not detected",NA,NA
+"266",14,"OP","2020-07-14",NA,"Not detected",NA,NA
+"266",21,"OP","2020-07-21",NA,"Not detected",NA,NA
+"266",28,"OP","2020-07-28",NA,"Not detected",NA,NA
+"270",0,"OP","2020-06-30","20S-182VI1559 ","Detected","30.89",NA
+"270",1,"OP","2020-07-01","20S-183VI1493 ","Detected","31.98",NA
+"270",3,"OP","2020-07-03","20S-185VI0488 ","Detected","35.73",NA
+"270",5,"OP","2020-07-05","20S-188VI1181","Detected","32.3",NA
+"270",7,"OP","2020-07-07","20S-189VI1663","Detected","30.09",NA
+"270",10,"OP","2020-07-10",NA,"Not detected",NA,NA
+"270",14,"OP","2020-07-15",NA,"Not detected",NA,NA
+"270",21,"OP","2020-07-21",NA,"Not detected",NA,NA
+"270",28,"OP","2020-07-28","20S-210VI1787","Detected","38.98",NA
+"271",0,"OP","2020-06-30",NA,"Not detected",NA,NA
+"271",1,"OP","2020-07-01",NA,"Not detected",NA,NA
+"271",3,"OP","2020-07-03",NA,"Not detected",NA,NA
+"271",5,"OP","2020-07-05",NA,"Not detected",NA,NA
+"271",7,"OP","2020-07-07",NA,"Not detected",NA,NA
+"271",10,"OP","2020-07-10",NA,"Not detected",NA,NA
+"271",14,"OP","2020-07-14",NA,"Not detected",NA,NA
+"271",21,"OP","2020-07-21",NA,"Not detected",NA,NA
+"271",28,"OP","2020-07-28",NA,"Not detected",NA,NA
+"269",0,"OP","2020-06-30",NA,"Not detected",NA,NA
+"269",1,"OP","2020-07-01",NA,"Not detected",NA,NA
+"269",3,"OP","2020-07-03",NA,"Not detected",NA,NA
+"269",5,"OP","2020-07-05",NA,"Not detected",NA,NA
+"269",7,"OP","2020-07-07",NA,"Not detected",NA,NA
+"269",9,"OP","2020-07-09",NA,"Not detected",NA,NA
+"269",14,"OP","2020-07-14",NA,NA,NA,"Missing"
+"269",19,"OP","2020-07-19",NA,"Not detected",NA,NA
+"269",28,"OP","2020-07-28",NA,NA,NA,"Missed visit"
+"275",0,"OP","2020-07-01","20S-183VI1471","Detected","25.57",NA
+"275",1,"OP","2020-07-02","20S-184VI1624","Detected","20.05",NA
+"275",2,"OP","2020-07-03","20S-185VI0489","Detected","33.98",NA
+"275",5,"OP","2020-07-06","20S-188VI1750","Detected","37.93",NA
+"275",7,"OP","2020-07-08",NA,"Not detected",NA,NA
+"275",10,"OP","2020-07-10","20S-192VI1729","Detected","38.05",NA
+"275",14,"OP","2020-07-15",NA,"Not detected",NA,NA
+"275",21,"OP","2020-07-22",NA,"Not detected",NA,NA
+"275",28,"OP","2020-07-29",NA,"Not detected",NA,NA
+"268",0,"OP","2020-07-01","20S-183VI1465","Detected","35.01",NA
+"268",1,"OP","2020-07-02","20S-184VI1621","Detected","39.36",NA
+"268",2,"OP","2020-07-03","20S-185VI0308","Detected","35.93",NA
+"268",5,"OP","2020-07-06",NA,"Not detected",NA,NA
+"268",7,"OP","2020-07-08","20S-190VI1180 ","Detected","33.65",NA
+"268",10,"OP","2020-07-11",NA,"Not detected",NA,NA
+"268",14,"OP","2020-07-16","20S-198VI1488","Detected","36.85",NA
+"268",21,"OP","2020-07-22",NA,"Not detected",NA,NA
+"268",28,"OP","2020-07-29",NA,"Not detected",NA,NA
+"273",0,"OP","2020-07-01","20S-183VI1504","Detected","29.27",NA
+"273",1,"OP","2020-07-02","20S-184VI1625","Detected","30.69",NA
+"273",3,"OP","2020-07-03","20S-185VI0492","Detected","32.63",NA
+"273",5,"OP","2020-07-06",NA,"Not detected",NA,NA
+"273",7,"OP","2020-07-08",NA,"Not detected",NA,NA
+"273",10,"OP","2020-07-10","20S-192VI1724","Detected","36.43",NA
+"273",14,"OP","2020-07-15",NA,"Not detected",NA,NA
+"273",21,"OP","2020-07-22",NA,"Not detected",NA,NA
+"273",28,"OP","2020-07-29",NA,"Not detected",NA,NA
+"274",0,"OP","2020-07-01","20S-183VI1511","Detected","33.02",NA
+"274",1,"OP","2020-07-02","20S-184VI1592","Detected","36.74",NA
+"274",2,"OP","2020-07-03","20S-185VI0327","Detected","37.13",NA
+"274",5,"OP","2020-07-06","20S-188VI1419","Detected","35.05",NA
+"274",7,"OP","2020-07-08","20S-190VI1493","Detected","39.94",NA
+"274",10,"OP","2020-07-10","20S-192VI1205","Detected","38.72",NA
+"274",14,"OP","2020-07-15","20S-197VI1099","Detected","38.86",NA
+"274",21,"OP","2020-07-22",NA,"Not detected",NA,NA
+"274",28,"OP","2020-07-29",NA,"Not detected",NA,NA
+"279",0,"OP","2020-07-02","20S-184VI1633","Detected","27.5",NA
+"279",1,"OP","2020-07-03","20S-185VI0326","Detected","28.95",NA
+"279",3,"OP","2020-07-06","20S-188VI1381 ","Detected","39.81",NA
+"279",5,"OP","2020-07-08",NA,"Not detected",NA,NA
+"279",8,"OP","2020-07-10","20S-192VI1220","Detected","34.66",NA
+"279",10,"OP","2020-07-12","20S-195VI0598","Detected","40.32",NA
+"279",14,"OP","2020-07-15",NA,"Not detected",NA,NA
+"279",20,"OP","2020-07-22",NA,"Not detected",NA,NA
+"279",27,"OP","2020-07-29",NA,"Not detected",NA,NA
+"283",0,"OP","2020-07-02","20S-184VI1634","Detected","32.47",NA
+"283",1,"OP","2020-07-03","20S-185VI0507","Detected","31.71",NA
+"283",3,"OP","2020-07-06","20S-188VI1746","Not detected",NA,"Updated"
+"283",5,"OP","2020-07-07",NA,"Not detected",NA,NA
+"283",7,"OP","2020-07-09",NA,"Not detected",NA,NA
+"283",10,"OP","2020-07-11","20S-195VI1672","Detected","39.65",NA
+"283",14,"OP","2020-07-16",NA,"Not detected",NA,NA
+"283",21,"OP","2020-07-23",NA,"Not detected",NA,NA
+"283",28,"OP","2020-07-30",NA,"Not detected",NA,NA
+"281",0,"OP","2020-07-02","20S-184VI1635","Detected","36.93",NA
+"281",1,"OP","2020-07-03",NA,"Not detected",NA,NA
+"281",4,"OP","2020-07-06",NA,"Not detected",NA,NA
+"281",5,"OP","2020-07-08",NA,"Not detected",NA,NA
+"281",7,"OP","2020-07-10",NA,"Not detected",NA,NA
+"281",10,"OP","2020-07-12",NA,"Not detected",NA,NA
+"281",14,"OP","2020-07-15",NA,"Not detected",NA,NA
+"281",20,"OP","2020-07-22",NA,"Not detected",NA,NA
+"281",27,"OP","2020-07-29",NA,"Not detected",NA,NA
+"284",0,"OP","2020-07-02","20S-184VI1617 ","Detected","24.56",NA
+"284",1,"OP","2020-07-03","20S-185VI0495","Detected","28.35",NA
+"284",3,"OP","2020-07-05","20S-188VI1573","Detected","25.35",NA
+"284",5,"OP","2020-07-07","20S-189VI1705","Detected","38.98",NA
+"284",7,"OP","2020-07-10",NA,"Not detected",NA,NA
+"284",10,"OP","2020-07-12","20S-195VI1163","Detected","35.01",NA
+"284",15,"OP","2020-07-17",NA,"Not detected",NA,NA
+"284",22,"OP","2020-07-24","20S-206VI1587","Detected","28.87",NA
+"284",28,"OP","2020-07-30",NA,"Not detected",NA,NA
+"282",0,"OP","2020-07-02","20S-184VI1610","Detected","25.75",NA
+"282",1,"OP","2020-07-03","20S-185VI0509","Detected","33.92",NA
+"282",3,"OP","2020-07-05","20S-188VI1107","Detected","36.41",NA
+"282",5,"OP","2020-07-07",NA,"Not detected",NA,"Leaking"
+"282",7,"OP","2020-07-09","20S-191VI1344","Detected","39.66",NA
+"282",10,"OP","2020-07-12","20S-195VI1219","Detected","39.52",NA
+"282",14,"OP","2020-07-16",NA,"Not detected",NA,NA
+"282",21,"OP","2020-07-23",NA,"Not detected",NA,NA
+"282",28,"OP","2020-07-30",NA,"Not detected",NA,NA
+"287",0,"OP","2020-07-04",NA,"Not detected",NA,NA
+"287",1,"OP","2020-07-05","20S-188VI1163","Detected","35.1",NA
+"287",3,"OP","2020-07-07",NA,"Not detected",NA,NA
+"287",5,"OP","2020-07-09",NA,"Not detected",NA,NA
+"287",7,"OP","2020-07-11","20S-195VI1619","Detected","35.14",NA
+"287",10,"OP","2020-07-14","20S-196VI1375","Detected","34.46",NA
+"287",14,"OP","2020-07-18","20S-202VI1434","Detected","35.71",NA
+"287",21,"OP","2020-07-25","20S-209VI1386","Detected","38.71",NA
+"287",27,"OP","2020-07-31",NA,"Not detected",NA,NA
+"292",0,"OP","2020-07-05",NA,"Not detected",NA,NA
+"292",1,"OP","2020-07-06",NA,"Not detected",NA,NA
+"292",3,"OP","2020-07-08",NA,"Not detected",NA,NA
+"292",5,"OP","2020-07-10",NA,"Not detected",NA,NA
+"292",7,"OP","2020-07-12",NA,"Not detected",NA,NA
+"292",10,"OP","2020-07-15",NA,"Not detected",NA,NA
+"292",14,"OP","2020-07-19",NA,"Not detected",NA,NA
+"292",25,"OP","2020-07-30",NA,"Not detected",NA,NA
+"292",32,"OP","2020-08-06",NA,"Not detected",NA,NA
+"294",0,"OP","2020-07-05","20S-188VI1604","Detected","32.03",NA
+"294",1,"OP","2020-07-06","20S-188VI1445","Detected","39.44",NA
+"294",3,"OP","2020-07-08","20S-190VI1156","Detected","30.47",NA
+"294",5,"OP","2020-07-10",NA,"Not detected",NA,NA
+"294",7,"OP","2020-07-12",NA,"Not detected",NA,NA
+"294",10,"OP","2020-07-15",NA,"Not detected",NA,NA
+"294",14,"OP","2020-07-19",NA,"Not detected",NA,NA
+"294",21,"OP","2020-07-26",NA,NA,NA,"Missing"
+"294",32,"OP","2020-08-06",NA,"Not detected",NA,NA
+"286",0,"OP","2020-07-05","20S-188VI1538","Detected","37.48",NA
+"286",1,"OP","2020-07-06","20S-188VI1429","Detected","38.94",NA
+"286",3,"OP","2020-07-08","20S-190VI1189","Detected","39.4",NA
+"286",5,"OP","2020-07-10",NA,"Not detected",NA,NA
+"286",7,"OP","2020-07-12",NA,"Not detected",NA,NA
+"286",10,"OP","2020-07-15",NA,"Not detected",NA,NA
+"286",14,"OP","2020-07-19",NA,"Not detected",NA,NA
+"286",20,"OP","2020-07-25",NA,"Not detected",NA,NA
+"286",28,"OP","2020-08-02",NA,"Not detected",NA,NA
+"295",0,"OP","2020-07-06","20S-188VI1469","Detected","25.85",NA
+"295",1,"OP","2020-07-07","20S-189VI1669","Detected","28.95",NA
+"295",3,"OP","2020-07-09","20S-191VI1357","Detected","31.41",NA
+"295",5,"OP","2020-07-11",NA,"Not detected",NA,NA
+"295",7,"OP","2020-07-13","20S-195VI1800","Detected","31.8",NA
+"295",10,"OP","2020-07-16",NA,"Not detected",NA,NA
+"295",14,"OP","2020-07-20","20S-202VI1791","Detected","29.64",NA
+"295",23,"OP","2020-07-29","20S-211VI1025","Detected","33.89",NA
+"295",30,"OP","2020-08-05","20S-218VI1783","Detected","34.59",NA
+"285",0,"OP","2020-07-06","20S-188VI1345","Detected","27.1",NA
+"285",1,"OP","2020-07-07","20S-189VI1709","Detected","33.48",NA
+"285",3,"OP","2020-07-09","20S-191VI1337","Detected","29.82",NA
+"285",5,"OP","2020-07-11","20S-195VI1636","Detected","37.24",NA
+"285",7,"OP","2020-07-13","20S-195VI1859","Detected","31.51",NA
+"285",11,"OP","2020-07-17",NA,"Not detected",NA,NA
+"285",15,"OP","2020-07-21","20S-203VI1206","Detected","34.25",NA
+"285",21,"OP","2020-07-27","20S-209VI1922","Detected","39.84",NA
+"285",29,"OP","2020-08-04",NA,"Not detected",NA,NA
+"302",0,"OP","2020-07-07","20S-189VI1645","Detected","18.39",NA
+"302",1,"OP","2020-07-08","20S-190VI1507","Detected","36.09",NA
+"302",3,"OP","2020-07-10",NA,"Not detected",NA,NA
+"302",5,"OP","2020-07-12","20S-195VI0819","Detected","38.98",NA
+"302",7,"OP","2020-07-14",NA,"Not detected",NA,NA
+"302",10,"OP","2020-07-17",NA,"Not detected",NA,NA
+"302",14,"OP","2020-07-21",NA,"Not detected",NA,NA
+"302",21,"OP","2020-07-28",NA,"Not detected",NA,NA
+"302",28,"OP","2020-08-04",NA,"Not detected",NA,NA
+"303",0,"OP","2020-07-07","20S-189VI1682","Detected","28.23",NA
+"303",1,"OP","2020-07-08","20S-190VI1502","Detected","33.68",NA
+"303",3,"OP","2020-07-10",NA,"Not detected",NA,NA
+"303",5,"OP","2020-07-12","20S-195VI0959","Detected","29.26",NA
+"303",7,"OP","2020-07-14","20S-196VI1877","Detected","38.08",NA
+"303",10,"OP","2020-07-17",NA,"Not detected",NA,NA
+"303",14,"OP","2020-07-21",NA,"Not detected",NA,NA
+"303",21,"OP","2020-07-28",NA,"Not detected",NA,NA
+"303",26,"OP","2020-08-02",NA,"Not detected",NA,NA
+"301",0,"OP","2020-07-07","20S-189VI1628","Detected","26.55",NA
+"301",1,"OP","2020-07-08","20S-190VI1167","Detected","26.26",NA
+"301",3,"OP","2020-07-10","20S-192VI1252","Detected","27.28",NA
+"301",5,"OP","2020-07-12","20S-195VI0579","Detected","31.14",NA
+"301",7,"OP","2020-07-14","20S-196VI1428","Detected","31.74",NA
+"301",10,"OP","2020-07-16","20S-198VI1219","Detected","32.5",NA
+"301",15,"OP","2020-07-22",NA,"Not detected",NA,NA
+"301",22,"OP","2020-07-29","20S-211VI1608","Detected","37.4",NA
+"301",29,"OP","2020-08-05",NA,"Not detected",NA,NA
+"306",0,"OP","2020-07-09","20S-191VI1347","Detected","35.24",NA
+"306",1,"OP","2020-07-10","20S-192VI1245","Detected","30.51",NA
+"306",3,"OP","2020-07-12","20S-195VI0609","Detected","25.9",NA
+"306",5,"OP","2020-07-14","20S-196VI1434","Detected","32.31",NA
+"306",7,"OP","2020-07-16","20S-198VI1213","Detected","26.64",NA
+"306",10,"OP","2020-07-19","20S-202VI1405","Detected","39.15",NA
+"306",13,"OP","2020-07-22",NA,"Not detected",NA,NA
+"306",20,"OP","2020-07-29",NA,"Not detected",NA,NA
+"306",27,"OP","2020-08-05",NA,"Not detected",NA,NA
+"305",0,"OP","2020-07-09",NA,"Not detected",NA,NA
+"305",1,"OP","2020-07-10","20S-192VI1236","Detected","39.06",NA
+"305",3,"OP","2020-07-11",NA,"Not detected",NA,NA
+"305",5,"OP","2020-07-14",NA,"Not detected",NA,NA
+"305",7,"OP","2020-07-16",NA,"Not detected",NA,NA
+"305",9,"OP","2020-07-18",NA,"Not detected",NA,NA
+"305",14,"OP","2020-07-23",NA,"Not detected",NA,NA
+"305",21,"OP","2020-07-30",NA,"Not detected",NA,NA
+"305",28,"OP","2020-08-06",NA,"Not detected",NA,NA
+"311",0,"OP","2020-07-09","20S-191VI1349","Detected","27.36","Admitted"
+"311",1,"OP","2020-07-10",NA,NA,NA,"Withdrawn"
+"311",3,"OP","2020-07-12",NA,NA,NA,"Withdrawn"
+"311",5,"OP","2020-07-14",NA,NA,NA,"Withdrawn"
+"311",7,"OP","2020-07-16",NA,NA,NA,"Withdrawn"
+"311",10,"OP","2020-07-19",NA,NA,NA,"Withdrawn"
+"311",14,"OP","2020-07-23",NA,NA,NA,"Withdrawn"
+"311",21,"OP","2020-07-30",NA,NA,NA,"Withdrawn"
+"311",28,"OP","2020-08-06",NA,NA,NA,"Withdrawn"
+"312",0,"OP","2020-07-09","20S-191VI1495","Detected","18.69",NA
+"312",1,"OP","2020-07-10","20S-192VI1739","Detected","30.97",NA
+"312",3,"OP","2020-07-12","20S-195VI1131","Detected","26.05",NA
+"312",5,"OP","2020-07-14","20S-196VI1900","Detected","35.11",NA
+"312",7,"OP","2020-07-16","20S-198VI1497","Detected","35.69",NA
+"312",10,"OP","2020-07-19",NA,"Not detected",NA,NA
+"312",14,"OP","2020-07-23",NA,"Not detected",NA,NA
+"312",22,"OP","2020-07-31",NA,"Not detected",NA,NA
+"312",28,"OP","2020-08-06",NA,"Not detected",NA,NA
+"315",0,"OP","2020-07-10","20S-192VI1747","Detected","26.79",NA
+"315",1,"OP","2020-07-11","20S-195VI1563","Detected","33.69",NA
+"315",3,"OP","2020-07-13","20S-195VI1786","Detected","29.12",NA
+"315",5,"OP","2020-07-15",NA,"Not detected",NA,NA
+"315",7,"OP","2020-07-17","20S-199VI1618","Detected","36.79",NA
+"315",10,"OP","2020-07-20","20S-202VI1809","Detected","33.09",NA
+"315",14,"OP","2020-07-24",NA,"Not detected",NA,NA
+"315",21,"OP","2020-07-31","20S-213VI1517","Detected","39.05",NA
+"315",28,"OP","2020-08-07",NA,NA,NA,"Withdrawn"
+"313",0,"OP","2020-07-10","20S-192VI1711","Detected","24.1",NA
+"313",1,"OP","2020-07-11","20S-195VI1591","Detected","28.54",NA
+"313",3,"OP","2020-07-13","20S-195VI1975","Detected","30.99",NA
+"313",5,"OP","2020-07-15","20S-197VI1113","Detected","33.11",NA
+"313",7,"OP","2020-07-17","20S-199VI1597","Detected","28.42",NA
+"313",11,"OP","2020-07-21",NA,"Not detected",NA,NA
+"313",14,"OP","2020-07-24",NA,"Not detected",NA,NA
+"313",20,"OP","2020-07-30",NA,"Not detected",NA,NA
+"313",28,"OP","2020-08-07",NA,"Not detected",NA,NA
+"314",0,"OP","2020-07-10","20S-192VI1723","Detected","28.37",NA
+"314",1,"OP","2020-07-11","20S-195VI1641","Detected","33.79",NA
+"314",3,"OP","2020-07-13","20S-195VI1861","Detected","31.73",NA
+"314",5,"OP","2020-07-15","20S-197VI1598","Detected","30.7",NA
+"314",7,"OP","2020-07-17","20S-199VI1593","Detected","31.89",NA
+"314",10,"OP","2020-07-20","20S-202VI1814","Detected","35.69",NA
+"314",14,"OP","2020-07-24",NA,"Not detected",NA,NA
+"314",21,"OP","2020-07-31",NA,"Not detected",NA,NA
+"314",28,"OP","2020-08-07",NA,"Not detected",NA,NA
+"316",0,"OP","2020-07-11","20S-195VI1503","Detected","25.98",NA
+"316",1,"OP","2020-07-12","20S-195VI0629","Detected","23.03",NA
+"316",3,"OP","2020-07-14","20S-196VI1903","Detected","26.91",NA
+"316",5,"OP","2020-07-16","20S-198VI1245","Detected","28.38",NA
+"316",7,"OP","2020-07-18","20S-202VI1384","Detected","31.38",NA
+"316",10,"OP","2020-07-21",NA,"Not detected",NA,NA
+"316",14,"OP","2020-07-25","20S-209VI1358","Detected","39.45",NA
+"316",21,"OP","2020-08-01",NA,"Not detected",NA,NA
+"316",28,"OP","2020-08-08",NA,"Not detected",NA,NA
+"318",0,"OP","2020-07-11","20S-195VI0868","Detected","33.51","In EPIC mistakenly 7/12/20"
+"318",1,"OP","2020-07-12","20S-195VI1651 ","Detected","39.11",NA
+"318",3,"OP","2020-07-14",NA,"Not detected",NA,NA
+"318",5,"OP","2020-07-16","20S-198VI1239","Detected","25.32",NA
+"318",7,"OP","2020-07-18","20S-202VI1346","Detected","36.59",NA
+"318",10,"OP","2020-07-21",NA,"Not detected",NA,NA
+"318",14,"OP","2020-07-25",NA,"Not detected",NA,NA
+"318",21,"OP","2020-08-01","20S-216VI1063","Detected","38",NA
+"318",28,"OP","2020-08-08",NA,"Not detected",NA,NA
+"319",0,"OP","2020-07-11","20S-195VI1665","Detected","30.77",NA
+"319",1,"OP","2020-07-12","20S-195VI0666","Detected","34.32",NA
+"319",3,"OP","2020-07-14","20S-196VI1455","Detected","34.91",NA
+"319",5,"OP","2020-07-16",NA,"Not detected",NA,NA
+"319",7,"OP","2020-07-18",NA,"Not detected",NA,NA
+"319",10,"OP","2020-07-21",NA,"Not detected",NA,NA
+"319",14,"OP","2020-07-25","20S-209VI1377","Detected","34.85",NA
+"319",21,"OP","2020-08-01",NA,"Not detected",NA,NA
+"319",28,"OP","2020-08-08",NA,"Not detected",NA,NA
+"320",0,"OP","2020-07-11","20S-195VI1493","Detected","38.76",NA
+"320",1,"OP","2020-07-12","20S-195VI0789","Detected","37",NA
+"320",3,"OP","2020-07-14",NA,"Not detected",NA,NA
+"320",5,"OP","2020-07-16",NA,"Not detected",NA,NA
+"320",7,"OP","2020-07-18",NA,"Not detected",NA,NA
+"320",10,"OP","2020-07-21",NA,"Not detected",NA,NA
+"320",14,"OP","2020-07-25",NA,"Not detected",NA,NA
+"320",21,"OP","2020-08-01",NA,"Not detected",NA,NA
+"320",28,"OP","2020-08-08",NA,"Not detected",NA,NA
+"325",0,"OP","2020-07-13","20S-195VI1780","Detected","31.81","Admitted"
+"325",1,"OP","2020-07-14",NA,NA,NA,"Withdrawn"
+"325",3,"OP","2020-07-16",NA,NA,NA,"Withdrawn"
+"325",5,"OP","2020-07-18",NA,NA,NA,"Withdrawn"
+"325",7,"OP","2020-07-20",NA,NA,NA,"Withdrawn"
+"325",10,"OP","2020-07-23",NA,NA,NA,"Withdrawn"
+"325",14,"OP","2020-07-27",NA,NA,NA,"Withdrawn"
+"325",21,"OP","2020-08-03",NA,NA,NA,"Withdrawn"
+"325",28,"OP","2020-08-10",NA,NA,NA,"Withdrawn"
+"326",0,"OP","2020-07-13","20S-195VI1968","Detected","28.7",NA
+"326",1,"OP","2020-07-14","20S-196VI1887","Detected","26.2",NA
+"326",3,"OP","2020-07-16","20S-198VI1496","Detected","30.75",NA
+"326",5,"OP","2020-07-18","20S-202VI1425","Detected","36.55",NA
+"326",7,"OP","2020-07-20","20S-202VI1769","Detected","33.67",NA
+"326",10,"OP","2020-07-23",NA,"Not detected",NA,NA
+"326",14,"OP","2020-07-27",NA,"Not detected",NA,NA
+"326",21,"OP","2020-08-03",NA,"Not detected",NA,NA
+"326",28,"OP","2020-08-10",NA,"Not detected",NA,NA
+"327",0,"OP","2020-07-14","20S-196VI1871","Detected","28.91",NA
+"327",1,"OP","2020-07-15","20S-197VI1609","Detected","25.58",NA
+"327",3,"OP","2020-07-17","20S-199VI1620","Detected","34.79",NA
+"327",5,"OP","2020-07-19","20S-202VI1449","Detected","31.09",NA
+"327",7,"OP","2020-07-21","20S-203VI1200","Detected","34.06",NA
+"327",10,"OP","2020-07-24","20S-206VI1634","Detected","38.88",NA
+"327",13,"OP","2020-07-27",NA,"Not detected",NA,NA
+"327",20,"OP","2020-08-03",NA,"Not detected",NA,NA
+"327",28,"OP","2020-08-10",NA,"Not detected",NA,NA
+"329",0,"OP","2020-07-14","20S-196VI1896","Detected","17.01",NA
+"329",1,"OP","2020-07-15","20S-197VI1621","Detected","20.36",NA
+"329",3,"OP","2020-07-17",NA,NA,NA,"Missed visit"
+"329",5,"OP","2020-07-19",NA,NA,NA,"Missed visit"
+"329",7,"OP","2020-07-21",NA,NA,NA,"Missed visit"
+"329",10,"OP","2020-07-24",NA,NA,NA,"Missed visit"
+"329",13,"OP","2020-07-27",NA,NA,NA,"Missed visit"
+"329",21,"OP","2020-08-04",NA,"Not detected",NA,NA
+"329",28,"OP","2020-08-11",NA,"Not detected",NA,NA
+"333",0,"OP","2020-07-15","20S-197VI1617","Detected","34.56",NA
+"333",1,"OP","2020-07-16","20S-198VI1232","Detected","23.07",NA
+"333",3,"OP","2020-07-18",NA,"Not detected",NA,NA
+"333",5,"OP","2020-07-20","20S-202VI1774","Detected","35.73",NA
+"333",7,"OP","2020-07-22",NA,"Not detected",NA,NA
+"333",10,"OP","2020-07-25",NA,"Not detected",NA,NA
+"333",14,"OP","2020-07-29",NA,"Not detected",NA,NA
+"333",21,"OP","2020-08-05",NA,"Not detected",NA,NA
+"333",28,"OP","2020-08-12",NA,"Not detected",NA,NA
+"337",0,"OP","2020-07-16","20S-198VI1223","Detected","31.46",NA
+"337",1,"OP","2020-07-17","20S-199VI1629","Detected","30.56",NA
+"337",2,"OP","2020-07-18",NA,"Not detected",NA,NA
+"337",5,"OP","2020-07-21",NA,"Not detected",NA,NA
+"337",7,"OP","2020-07-23",NA,"Not detected",NA,NA
+"337",10,"OP","2020-07-26",NA,"Not detected",NA,NA
+"337",14,"OP","2020-07-30",NA,"Not detected",NA,NA
+"337",21,"OP","2020-08-06",NA,"Not detected",NA,NA
+"337",28,"OP","2020-08-13",NA,"Not detected",NA,NA
+"339",0,"OP","2020-07-16",NA,"Not detected",NA,NA
+"339",1,"OP","2020-07-17","20S-199VI1632","Detected","28.57",NA
+"339",3,"OP","2020-07-19",NA,"Not detected",NA,NA
+"339",5,"OP","2020-07-21",NA,"Not detected",NA,"Leaking"
+"339",7,"OP","2020-07-23",NA,"Not detected",NA,NA
+"339",10,"OP","2020-07-26",NA,"Not detected",NA,NA
+"339",14,"OP","2020-07-30",NA,"Not detected",NA,NA
+"339",21,"OP","2020-08-06",NA,"Not detected",NA,NA
+"339",28,"OP","2020-08-13",NA,"Not detected",NA,NA
+"344",0,"OP","2020-07-17","20S-199VI1608","Detected","25.13",NA
+"344",1,"OP","2020-07-18",NA,"Not detected",NA,NA
+"344",3,"OP","2020-07-20","20S-202VI1760","Detected","27.34",NA
+"344",5,"OP","2020-07-22",NA,"Not detected",NA,NA
+"344",7,"OP","2020-07-24",NA,"Not detected",NA,NA
+"344",10,"OP","2020-07-27",NA,"Not detected",NA,NA
+"344",14,"OP","2020-07-31",NA,"Not detected",NA,NA
+"344",21,"OP","2020-08-07","20S-220VI1560 ","Detected","36.27",NA
+"344",28,"OP","2020-08-14","20S-227VI1508 ","Detected","36.69",NA
+"345",0,"OP","2020-07-17","20S-199VI1638","Detected","34.58",NA
+"345",1,"OP","2020-07-18","20S-202VI1364","Detected","32.81",NA
+"345",3,"OP","2020-07-20","20S-202VI1800","Detected","30.54",NA
+"345",5,"OP","2020-07-22","20S-204VI1386","Detected","34.06",NA
+"345",7,"OP","2020-07-24","20S-206VI1624","Detected","35.1",NA
+"345",10,"OP","2020-07-27","20S-209VI1534","Detected","37.58",NA
+"345",14,"OP","2020-07-31",NA,"Not detected",NA,NA
+"345",21,"OP","2020-08-07",NA,"Not detected",NA,NA
+"345",28,"OP","2020-08-14",NA,"Not detected",NA,NA
+"346",0,"OP","2020-07-17","20S-199VI1605","Detected","34.89",NA
+"346",1,"OP","2020-07-18","20S-202VI1415","Detected","32.34",NA
+"346",3,"OP","2020-07-20","20S-202VI1796","Detected","38.79",NA
+"346",5,"OP","2020-07-22",NA,"Not detected",NA,NA
+"346",7,"OP","2020-07-24",NA,"Not detected",NA,NA
+"346",10,"OP","2020-07-27",NA,"Not detected",NA,NA
+"346",12,"OP","2020-07-29",NA,"Not detected",NA,"Day 14-2"
+"346",21,"OP","2020-08-07","20S-220VI1550 ","Detected","39.51",NA
+"346",28,"OP","2020-08-14",NA,"Not detected",NA,NA
