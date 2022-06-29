@@ -1,0 +1,37 @@
+---
+title: "Tutorial for predicting clinical outcomes of COVID-19 patients"
+output: html_document
+date: '2022-06-28'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This tutorial demonstrates how to use the shared models to predict clinical outcomes of COVID-19 patients using olink data of plasma proteins. This tutorial is written in the R programing language. 
+
+To run the models, first we will load the required package:
+
+```{r, message=FALSE}
+library(randomForest)
+```
+
+We then read the olink data and load the random forrest models.
+
+```{r}
+olink = read.csv('test_data.csv')
+load('final_models.rda')
+```
+
+
+
+Applying the models to predict 1) disease progression, 2) viral shedding, 3) memory CD4 response,4) IgG response at day 28 and 5) IgG response at month 7. 
+
+```{r}
+pred1 = predict(RFlist[["Info_severitycat"]],olink,type='prob')
+pred2 = predict(RFlist[["auc"]],olink,type='prob')
+pred3 = predict(RFlist[["mCD4"]],olink,type='prob')
+pred4 = predict(RFlist[["D28_IgG"]],olink,type='prob')
+pred5 = predict(RFlist[["M7_IgG"]],olink,type='prob')
+```
+
